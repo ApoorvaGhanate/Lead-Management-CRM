@@ -1,6 +1,12 @@
 # Lead-Management-CRM
 A full stack lead management CRM built with React, Vite, Node.js, Express, and MongoDB.
 
+## 🔗 Live Demo
+[https://lead-management-crm-pied.vercel.app](https://lead-management-crm-pied.vercel.app)
+
+## 🔗 Backend API
+[https://lead-management-crm-szwx.onrender.com](https://lead-management-crm-szwx.onrender.com)
+
 ## Features
 
 - Add new leads/customers
