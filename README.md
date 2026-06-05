@@ -92,6 +92,11 @@ Visit the Vite frontend URL shown in the terminal, typically `http://localhost:5
 - API design: RESTful Express routes with MongoDB integration.
 - Bonus features included: lead statistics panel, pagination, sorting/filtering controls, responsive UI, and field validation.
 
+## 🚀 Deployment
+- **Frontend:** Vercel
+- **Backend:** Render
+- **Database:** MongoDB Atlas
+
 ## Final Notes
 
 This CRM includes:
